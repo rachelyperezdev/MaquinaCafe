@@ -47,7 +47,7 @@ The **Coffee Machine** project is a .NET application designed to build a coffee 
 
 1. Clone this repository:
    ```bash
-   git clone [<repository-url>](https://github.com/rachelyperezdev/MaquinaCafe.git)
+   git clone https://github.com/rachelyperezdev/MaquinaCafe.git
    cd MaquinaCafe
 
 + Ensure you have the .NET SDK installed. You can verify using:
